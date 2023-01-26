@@ -1,2 +1,2 @@
 # IDP-I
-# A machine-learning model that predicts the interaction between intrinsically disordered proteins (IDPs) .
+# A machine-learning method that predicts the interaction between intrinsically disordered proteins (IDPs) .
